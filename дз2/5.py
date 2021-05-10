@@ -9,7 +9,7 @@
 # Набор натуральных чисел можно задать непосредственно в коде, например, my_list = [7, 5, 3, 3, 2].
 
 number = int(input("Enter number: "))
-my_list = [7, 4, 3, 2]
+my_list = [7, 5, 3, 3, 2]
 c = my_list.count(number)
 for element in my_list:
     if c > 0:
