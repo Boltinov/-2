@@ -45,3 +45,4 @@ for nomer, opisanie in products:
 
 print(products)
 print(analitika)
+

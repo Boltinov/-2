@@ -7,3 +7,4 @@ print(len(stroka.split()))
 stroka1 = stroka.split()
 for num, word in enumerate(stroka1):
     print(f"{num} - {word[:10]}")
+

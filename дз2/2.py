@@ -17,7 +17,3 @@ for i in range(int(len(spisok)/2)):
     print(spisok)
 
 
-
-
-
-
